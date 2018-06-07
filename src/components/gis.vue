@@ -8,7 +8,7 @@ import View from "ol/view";
 import TileLayer from "ol/layer/tile";
 import XYZ from "ol/source/xyz";
 import "ol/ol.css";
-
+//test
 export default {
   name: "gismap",
   directives: {
